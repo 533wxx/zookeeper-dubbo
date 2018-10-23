@@ -1,7 +1,7 @@
 package com.wxx.dubbo.student.server;
 
 public interface StudentServer {
-	//533wxx321dsaasd
+	//这是测试数目数据
 	public String server(String name);//zs
 
 }
