@@ -4,7 +4,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
 import com.alibaba.dubbo.config.annotation.Reference;
-import com.wxx.dubbo.student.server.StudentServer;
+import com.wxx.duboo.student.StudentServer;
 //@Controller
 //@ResponseBody
 @RestController
